@@ -1,0 +1,28 @@
+/*
+Theme Name: Little Miami Theme
+Theme URI: http://localhost/littlemiami
+Author: Your Name
+Version: 1.0
+*/
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  header {
+    background: url('images/hero.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  .section {
+    padding: 60px 20px;
+    text-align: center;
+  }
+  footer {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
